@@ -4,7 +4,7 @@ const Stage = require("telegraf/stage");
 const session = require("telegraf/session");
 const WizardScene = require("telegraf/scenes/wizard");
 const { keyboard, removeKeyboard, urlButton } = require('telegraf/markup');
-const BOT_TOKEN ='1635080764:AAG_ApXlT36dY1JwxHa1wak22Fohd7t2yUk';
+const BOT_TOKEN ='';
 console.log('start');
 const bot = new Telegraf(BOT_TOKEN)
 
